@@ -1,0 +1,5 @@
+vhdl work "x7segbc.vhd"
+vhdl work "mod10cnt.vhd"
+vhdl work "clockdiv48and190.vhd"
+vhdl work "binBCD14.vhd"
+vhdl work "stopwatch.vhd"
