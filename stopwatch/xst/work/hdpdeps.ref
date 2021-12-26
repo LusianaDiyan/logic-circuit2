@@ -1,0 +1,38 @@
+V3 25
+FL E:/2210181014/stopwatch/binBCD14.vhd 2019/05/13.14:13:32 P.20131013
+EN work/binBCD14 1558318073 FL E:/2210181014/stopwatch/binBCD14.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/binBCD14/Behavioral 1558318074 \
+      FL E:/2210181014/stopwatch/binBCD14.vhd EN work/binBCD14 1558318073
+FL E:/2210181014/stopwatch/binBCD14m.vhd 2019/05/13.15:06:58 P.20131013
+EN work/binBCD14m 1557734862 FL E:/2210181014/stopwatch/binBCD14m.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/binBCD14m/Behavioral 1557734863 \
+      FL E:/2210181014/stopwatch/binBCD14m.vhd EN work/binBCD14m 1557734862
+FL E:/2210181014/stopwatch/clockdiv48and190.vhd 2019/05/20.09:07:34 P.20131013
+EN work/clockdiv48and190 1558318069 \
+      FL E:/2210181014/stopwatch/clockdiv48and190.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/clockdiv48and190/Behavioral 1558318070 \
+      FL E:/2210181014/stopwatch/clockdiv48and190.vhd EN work/clockdiv48and190 1558318069
+FL E:/2210181014/stopwatch/mod10cnt.vhd 2019/05/13.14:53:40 P.20131013
+EN work/mod10cnt 1558318071 FL E:/2210181014/stopwatch/mod10cnt.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mod10cnt/Behavioral 1558318072 \
+      FL E:/2210181014/stopwatch/mod10cnt.vhd EN work/mod10cnt 1558318071
+FL E:/2210181014/stopwatch/stopwatch.vhd 2019/05/13.15:09:00 P.20131013
+EN work/stopwatch 1558318077 FL E:/2210181014/stopwatch/stopwatch.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/stopwatch/Behavioral 1558318078 \
+      FL E:/2210181014/stopwatch/stopwatch.vhd EN work/stopwatch 1558318077 \
+      CP clockdiv48and190 CP mod10cnt CP binBCD14 CP x7segbc
+FL E:/2210181014/stopwatch/x7segbc.vhd 2019/05/13.14:28:15 P.20131013
+EN work/x7segbc 1558318075 FL E:/2210181014/stopwatch/x7segbc.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/x7segbc/Behavioral 1558318076 \
+      FL E:/2210181014/stopwatch/x7segbc.vhd EN work/x7segbc 1558318075
+FL E:/2210181014/stopwatch/x7segbcm.vhd 2019/05/13.15:04:40 P.20131013
+EN work/x7segbcm 1557734866 FL E:/2210181014/stopwatch/x7segbcm.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/x7segbcm/Behavioral 1557734867 \
+      FL E:/2210181014/stopwatch/x7segbcm.vhd EN work/x7segbcm 1557734866

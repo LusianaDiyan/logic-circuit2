@@ -1,0 +1,14 @@
+AR binbcd14 behavioral E:/2210181014/stopwatch/binBCD14.vhd sub00/vhpl05 1558318074
+EN mod10cnt NULL E:/2210181014/stopwatch/mod10cnt.vhd sub00/vhpl02 1558318071
+AR stopwatch behavioral E:/2210181014/stopwatch/stopwatch.vhd sub00/vhpl09 1558318078
+EN clockdiv48and190 NULL E:/2210181014/stopwatch/clockdiv48and190.vhd sub00/vhpl00 1558318069
+AR clockdiv48and190 behavioral E:/2210181014/stopwatch/clockdiv48and190.vhd sub00/vhpl01 1558318070
+EN binbcd14 NULL E:/2210181014/stopwatch/binBCD14.vhd sub00/vhpl04 1558318073
+AR mod10cnt behavioral E:/2210181014/stopwatch/mod10cnt.vhd sub00/vhpl03 1558318072
+AR x7segbc behavioral E:/2210181014/stopwatch/x7segbc.vhd sub00/vhpl07 1558318076
+EN x7segbcm NULL E:/2210181014/stopwatch/x7segbcm.vhd sub00/vhpl12 1557734866
+EN binbcd14m NULL E:/2210181014/stopwatch/binBCD14m.vhd sub00/vhpl10 1557734862
+AR binbcd14m behavioral E:/2210181014/stopwatch/binBCD14m.vhd sub00/vhpl11 1557734863
+EN x7segbc NULL E:/2210181014/stopwatch/x7segbc.vhd sub00/vhpl06 1558318075
+AR x7segbcm behavioral E:/2210181014/stopwatch/x7segbcm.vhd sub00/vhpl13 1557734867
+EN stopwatch NULL E:/2210181014/stopwatch/stopwatch.vhd sub00/vhpl08 1558318077

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/2210181014/stopwatch/stopwatch.vhd</arg>&quot; line <arg fmt="%d" index="2">81</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">m</arg>&apos; of component &apos;<arg fmt="%s" index="4">mod10cnt</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="old" >&quot;<arg fmt="%s" index="1">E:/2210181014/stopwatch/clockdiv48and190.vhd</arg>&quot; line <arg fmt="%d" index="2">43</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;q&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">p&lt;16&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">mn</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">a2/countm_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">stopwatch</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+
