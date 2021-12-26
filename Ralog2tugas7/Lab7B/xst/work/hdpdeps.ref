@@ -1,0 +1,6 @@
+V3 3
+FL D:/Ralog2tugas7/Lab7B/mux7seg_top.vhd 2019/05/08.15:37:30 P.20131013
+EN work/mux7seg_top 1557304740 FL D:/Ralog2tugas7/Lab7B/mux7seg_top.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux7seg_top/Behavioral 1557304741 \
+      FL D:/Ralog2tugas7/Lab7B/mux7seg_top.vhd EN work/mux7seg_top 1557304740

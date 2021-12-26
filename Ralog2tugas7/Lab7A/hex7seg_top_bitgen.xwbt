@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Lab7A\hex7seg_top.ncd
+OUTFILE=D:\Lab7A\hex7seg_top.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=D:\Lab7A
+LICENSE=WebPack
+USER_INFO=__0_0_0

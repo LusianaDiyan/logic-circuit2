@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\tedd\Downloads\PAK NANDO NEW\Lab7C1\x7seg_top.ncd
+OUTFILE=C:\Users\tedd\Downloads\PAK NANDO NEW\Lab7C1\x7seg_top.bit
+FAMILY=Automotive Spartan3
+PART=xa3s200-4ftg256
+WORKINGDIR=C:\Users\tedd\Downloads\PAK NANDO NEW\Lab7C1
+LICENSE=WebPack
+USER_INFO=211653567_0_0_918

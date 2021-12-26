@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Hardwork/File Kuliah/TEKNIK KOMPUTER 2018/SEMESTER2/Rangkaian Logika 2/XILINX PROJECT/PAK NANDO NEW/Lab7C2/x7segb_top.xst" -ofn "D:/Hardwork/File Kuliah/TEKNIK KOMPUTER 2018/SEMESTER2/Rangkaian Logika 2/XILINX PROJECT/PAK NANDO NEW/Lab7C2/x7segb_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s200-ftg256-4 "x7segb_top.ngc" x7segb_top.ngd  
+map -intstyle ise -p xa3s200-ftg256-4 -cm area -ir off -pr off -c 100 -o x7segb_top_map.ncd x7segb_top.ngd x7segb_top.pcf 
+par -w -intstyle ise -ol high -t 1 x7segb_top_map.ncd x7segb_top.ncd x7segb_top.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml x7segb_top.twx x7segb_top.ncd -o x7segb_top.twr x7segb_top.pcf 
+bitgen -intstyle ise -f x7segb_top.ut x7segb_top.ncd 

@@ -1,0 +1,14 @@
+V3 9
+FL "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.vhd" 2019/05/08.08:31:26 P.20131013
+FL "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg_top.vhd" 2019/05/08.08:48:42 P.20131013
+FL "H:/PAK NANDO NEW/Lab7C1/x7seg.vhd" 2019/05/08.08:31:28 P.20131013
+EN work/x7seg 1557903560 FL "H:/PAK NANDO NEW/Lab7C1/x7seg.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/x7seg/Behavioral 1557903561 \
+      FL "H:/PAK NANDO NEW/Lab7C1/x7seg.vhd" EN work/x7seg 1557903560
+FL "H:/PAK NANDO NEW/Lab7C1/x7seg_top.vhd" 2019/05/08.08:48:44 P.20131013
+EN work/x7seg_top 1557903562 FL "H:/PAK NANDO NEW/Lab7C1/x7seg_top.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/x7seg_top/Behavioral 1557903563 \
+      FL "H:/PAK NANDO NEW/Lab7C1/x7seg_top.vhd" EN work/x7seg_top 1557903562 \
+      CP x7seg

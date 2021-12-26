@@ -1,0 +1,19 @@
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s200-ftg256-4 "x7seg.ngc" x7seg.ngd  
+map -intstyle ise -p xa3s200-ftg256-4 -cm area -ir off -pr off -c 100 -o x7seg_map.ncd x7seg.ngd x7seg.pcf 
+par -w -intstyle ise -ol high -t 1 x7seg_map.ncd x7seg.ncd x7seg.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml x7seg.twx x7seg.ncd -o x7seg.twr x7seg.pcf 
+bitgen -intstyle ise -f x7seg.ut x7seg.ncd 
+xst -intstyle ise -ifn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.xst" -ofn "C:/Users/tedd/Downloads/PAK NANDO NEW/Lab7C1/x7seg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s200-ftg256-4 "x7seg.ngc" x7seg.ngd  
+map -intstyle ise -p xa3s200-ftg256-4 -cm area -ir off -pr off -c 100 -o x7seg_map.ncd x7seg.ngd x7seg.pcf 
+par -w -intstyle ise -ol high -t 1 x7seg_map.ncd x7seg.ncd x7seg.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml x7seg.twx x7seg.ncd -o x7seg.twr x7seg.pcf 
+bitgen -intstyle ise -f x7seg.ut x7seg.ncd 

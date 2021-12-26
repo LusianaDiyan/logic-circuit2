@@ -1,0 +1,9 @@
+V3 7
+FL D:/Lab7A/hex7segb.vhd 2019/05/08.14:37:19 P.20131013
+EN work/hex7segb 1557301457 FL D:/Lab7A/hex7segb.vhd PB ieee/std_logic_1164 1381692176
+AR work/hex7segb/Behavioral 1557301458 \
+      FL D:/Lab7A/hex7segb.vhd EN work/hex7segb 1557301457
+FL D:/Lab7A/hex7seg_top.vhd 2019/05/08.14:36:24 P.20131013
+EN work/hex7seg_top 1557301459 FL D:/Lab7A/hex7seg_top.vhd PB ieee/std_logic_1164 1381692176
+AR work/hex7seg_top/Behavioral 1557301460 \
+      FL D:/Lab7A/hex7seg_top.vhd EN work/hex7seg_top 1557301459 CP hex7segb

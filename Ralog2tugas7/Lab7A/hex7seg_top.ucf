@@ -1,0 +1,19 @@
+net "a_to_g[0]" loc = n16;
+net "a_to_g[1]" loc = f13;
+net "a_to_g[2]" loc = r16;
+net "a_to_g[3]" loc = p15;
+net "a_to_g[4]" loc = n15;
+net "a_to_g[5]" loc = g13;
+net "a_to_g[6]" loc = e14;
+
+net "an[0]" loc = d14;
+net "an[1]" loc = g14;
+net "an[2]" loc = f14;
+net "an[3]" loc = e13;
+
+net "dp" loc = p16;
+
+net "aw[0]" loc = f12;
+net "aw[1]" loc = g12;
+net "aw[2]" loc = h14;
+net "aw[3]" loc = h13;

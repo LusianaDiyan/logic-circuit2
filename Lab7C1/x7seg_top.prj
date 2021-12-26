@@ -1,0 +1,2 @@
+vhdl work "x7seg.vhd"
+vhdl work "x7seg_top.vhd"
