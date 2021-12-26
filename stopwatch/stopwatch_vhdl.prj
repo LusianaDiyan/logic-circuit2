@@ -1,0 +1,5 @@
+vhdl work "E:\2210181014\stopwatch\x7segbc.vhd"
+vhdl work "E:\2210181014\stopwatch\mod10cnt.vhd"
+vhdl work "E:\2210181014\stopwatch\clockdiv48and190.vhd"
+vhdl work "E:\2210181014\stopwatch\binBCD14.vhd"
+vhdl work "E:\2210181014\stopwatch\stopwatch.vhd"
